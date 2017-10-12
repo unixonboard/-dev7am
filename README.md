@@ -1,1 +1,4 @@
 # dev7am
+HELLO GOOD DAY
+NICE DAY
+BYE

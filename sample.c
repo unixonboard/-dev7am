@@ -5,4 +5,5 @@ void fun()
 void main()
 {
   printf(" Devops ");
+  printf(" NewCode");
 }

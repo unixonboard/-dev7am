@@ -1,3 +1,7 @@
+void div()
+{
+  a/b
+}
 void mul()
 {
   a*b

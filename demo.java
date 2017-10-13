@@ -1,3 +1,5 @@
+clsss temp
+{}
 class sample
 {}
 class Demo

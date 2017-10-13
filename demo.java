@@ -1,3 +1,5 @@
+class sample
+{}
 class Demo
 {
   ......

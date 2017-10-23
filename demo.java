@@ -1,6 +1,6 @@
 class Demo
 {
-  ......
+  .......
   void add()
   {}
   void sub()
